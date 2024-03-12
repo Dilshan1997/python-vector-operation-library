@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: vector-library
+Version: 0.0.1
+Summary: For handle the 2d and 3d vector operations
+Home-page: package url
+Author: Dilshan
+Author-email: projects.dilshan@gmail.com
+Project-URL: Bug Tracker, package issues url
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# 'Vector Library'
+
+The 'vector library is simple package that handle the 3D and 2D vector operations'

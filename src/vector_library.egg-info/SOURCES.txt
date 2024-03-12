@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/vector_library.egg-info/PKG-INFO
+src/vector_library.egg-info/SOURCES.txt
+src/vector_library.egg-info/dependency_links.txt
+src/vector_library.egg-info/top_level.txt
+tests/testing.py
+tests/testing2.py
