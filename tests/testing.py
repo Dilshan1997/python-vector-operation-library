@@ -1,5 +1,5 @@
 import unittest
-from src.vector_library import Vector2D, Vector3D
+from src.vector_library.vector_library import Vector2D, Vector3D
 
 
 class TestVector2DOperations(unittest.TestCase):

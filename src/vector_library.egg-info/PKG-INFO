@@ -1,15 +1,16 @@
 Metadata-Version: 2.1
-Name: vector-library
-Version: 0.0.1
-Summary: For handle the 2d and 3d vector operations
-Home-page: package url
-Author: Dilshan
+Name: vector_library
+Version: 0.0.5
+Summary: Handle the 2D and 3D vector operations
+Home-page: https://github.com/Dilshan1997/python-vector-operation-library
+Author: dilshan97
 Author-email: projects.dilshan@gmail.com
-Project-URL: Bug Tracker, package issues url
+Project-URL: Bug Tracker, https://github.com/Dilshan1997/python-vector-operation-library-issue
+Project-URL: Repository, https://github.com/Dilshan1997/python-vector-operation-library
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.8
+Requires-Python: >=3.0
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
