@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/vector_library/__init__.py
+src/vector_library/operations.py
+src/vector_library_new2.egg-info/PKG-INFO
+src/vector_library_new2.egg-info/SOURCES.txt
+src/vector_library_new2.egg-info/dependency_links.txt
+src/vector_library_new2.egg-info/top_level.txt
+tests/testing.py
+tests/testing2.py

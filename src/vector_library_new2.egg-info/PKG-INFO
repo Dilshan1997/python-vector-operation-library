@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: vector_library_new2
+Version: 0.0.12
+Summary: For handle the 2D and 3D vector operations
+Home-page: https://github.com/Dilshan1997/python-vector-operation-library
+Author: Dilshan
+Author-email: projects.dilshan@gmail.com
+Project-URL: Bug Tracker, https://github.com/Dilshan1997/python-vector-operation-library/issues
+Project-URL: repository, https://github.com/Dilshan1997/python-vector-operation-library
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# 'Vector Library'
+
+The 'vector library is simple package that handle the 3D and 2D vector operations'
+
+## Vectors Operations
+
+1. You can handle 2D, 3D basic operation such as,
+**x and y is two vectors**
+- addition => x+y
+- substraction => x-y
+- dot product => x*y
+- cross product=> x@y
+
+
+
